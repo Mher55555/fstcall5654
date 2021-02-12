@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "440070895536",
+    "project_id": "fstcall5",
+    "storage_bucket": "fstcall5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440070895536:android:06a883c689462658bd4875",
+        "android_client_info": {
+          "package_name": "com.mianasad.chatsapp5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440070895536-dcmlkijnj4u0na2qhi9kifihu70b07pt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mianasad.chatsapp5",
+            "certificate_hash": "b05a45fb18cdf14246d28547b0a82fd4ab337597"
+          }
+        },
+        {
+          "client_id": "440070895536-qdn8cghk3gji0imuua4roj0690un8bu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC77GoyzE0_bPZXYQRWw5r-DLQlgV5WPEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440070895536-qdn8cghk3gji0imuua4roj0690un8bu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
